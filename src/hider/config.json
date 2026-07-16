@@ -1,0 +1,11 @@
+{
+    "hide_menu_bar": true,
+    "hide_toolbar": true,
+    "hide_bottom_bar": true,
+    "hide_cursor": true,
+    "cursor_idle_seconds": 3,
+    "hide_scrollbar": true,
+    "hide_hard_easy_buttons": true,
+    "auto_start_study": true,
+    "_meta": {"welcome_shown": false}
+}
